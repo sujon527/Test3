@@ -4,13 +4,13 @@ using System.Data;
 public class AnalyticsDTO
 {
     public List<string[]> jobs = new List<string[]>();
-    public List<string[]> jobViews = new List<string[]>();
-    public List<string[]> connections = new List<string[]>();
-    public List<string[]> genders = new List<string[]>();
-    public List<string[]> ages = new List<string[]>();
-    public List<string[]> university = new List<string[]>();
-    public List<string> degress = new List<string>();
-    public List<string[]> applications = new List<string[]>();
+    //public List<string[]> jobViews = new List<string[]>();
+    //public List<string[]> connections = new List<string[]>();
+    //public List<string[]> genders = new List<string[]>();
+    //public List<string[]> ages = new List<string[]>();
+    //public List<string[]> university = new List<string[]>();
+    //public List<string> degress = new List<string>();
+    //public List<string[]> applications = new List<string[]>();
     //public Jobs job { get; set; } = new Jobs();
 
 
