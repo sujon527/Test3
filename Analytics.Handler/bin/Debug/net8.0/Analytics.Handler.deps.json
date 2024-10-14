@@ -1,0 +1,88 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Analytics.Handler/1.0.0": {
+        "dependencies": {
+          "Analytics.Aggregator": "1.0.0",
+          "Analytics.DTO": "1.0.0",
+          "Analytics.Repository": "1.0.0"
+        },
+        "runtime": {
+          "Analytics.Handler.dll": {}
+        }
+      },
+      "Dapper/2.1.35": {
+        "runtime": {
+          "lib/net7.0/Dapper.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.1.35.13827"
+          }
+        }
+      },
+      "Analytics.Aggregator/1.0.0": {
+        "dependencies": {
+          "Analytics.DTO": "1.0.0"
+        },
+        "runtime": {
+          "Analytics.Aggregator.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Analytics.DTO/1.0.0": {
+        "runtime": {
+          "Analytics.DTO.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Analytics.Repository/1.0.0": {
+        "dependencies": {
+          "Dapper": "2.1.35"
+        },
+        "runtime": {
+          "Analytics.Repository.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Analytics.Handler/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dapper/2.1.35": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YKRwjVfrG7GYOovlGyQoMvr1/IJdn+7QzNXJxyMh0YfFF5yvDmTYaJOVYWsckreNjGsGSEtrMTpnzxTUq/tZQw==",
+      "path": "dapper/2.1.35",
+      "hashPath": "dapper.2.1.35.nupkg.sha512"
+    },
+    "Analytics.Aggregator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Analytics.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Analytics.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

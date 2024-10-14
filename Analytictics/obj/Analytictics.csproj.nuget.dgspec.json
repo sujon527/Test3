@@ -1,0 +1,376 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sujon.sarder\\source\\repos\\Test1\\Analytictics\\Analytictics.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sujon.sarder\\source\\repos\\Test1\\Analytics.Aggregator\\Analytics.Aggregator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sujon.sarder\\source\\repos\\Test1\\Analytics.Aggregator\\Analytics.Aggregator.csproj",
+        "projectName": "Analytics.Aggregator",
+        "projectPath": "C:\\Users\\sujon.sarder\\source\\repos\\Test1\\Analytics.Aggregator\\Analytics.Aggregator.csproj",
+        "packagesPath": "C:\\Users\\sujon.sarder\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sujon.sarder\\source\\repos\\Test1\\Analytics.Aggregator\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sujon.sarder\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\sujon.sarder\\source\\repos\\Test1\\Analytics.DTO\\Analytics.DTO.csproj": {
+                "projectPath": "C:\\Users\\sujon.sarder\\source\\repos\\Test1\\Analytics.DTO\\Analytics.DTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sujon.sarder\\source\\repos\\Test1\\Analytics.DTO\\Analytics.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sujon.sarder\\source\\repos\\Test1\\Analytics.DTO\\Analytics.DTO.csproj",
+        "projectName": "Analytics.DTO",
+        "projectPath": "C:\\Users\\sujon.sarder\\source\\repos\\Test1\\Analytics.DTO\\Analytics.DTO.csproj",
+        "packagesPath": "C:\\Users\\sujon.sarder\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sujon.sarder\\source\\repos\\Test1\\Analytics.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sujon.sarder\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sujon.sarder\\source\\repos\\Test1\\Analytics.Handler\\Analytics.Handler.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sujon.sarder\\source\\repos\\Test1\\Analytics.Handler\\Analytics.Handler.csproj",
+        "projectName": "Analytics.Handler",
+        "projectPath": "C:\\Users\\sujon.sarder\\source\\repos\\Test1\\Analytics.Handler\\Analytics.Handler.csproj",
+        "packagesPath": "C:\\Users\\sujon.sarder\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sujon.sarder\\source\\repos\\Test1\\Analytics.Handler\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sujon.sarder\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\sujon.sarder\\source\\repos\\Test1\\Analytics.Aggregator\\Analytics.Aggregator.csproj": {
+                "projectPath": "C:\\Users\\sujon.sarder\\source\\repos\\Test1\\Analytics.Aggregator\\Analytics.Aggregator.csproj"
+              },
+              "C:\\Users\\sujon.sarder\\source\\repos\\Test1\\Analytics.DTO\\Analytics.DTO.csproj": {
+                "projectPath": "C:\\Users\\sujon.sarder\\source\\repos\\Test1\\Analytics.DTO\\Analytics.DTO.csproj"
+              },
+              "C:\\Users\\sujon.sarder\\source\\repos\\Test1\\Analytics.Repository\\Analytics.Repository.csproj": {
+                "projectPath": "C:\\Users\\sujon.sarder\\source\\repos\\Test1\\Analytics.Repository\\Analytics.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sujon.sarder\\source\\repos\\Test1\\Analytics.Repository\\Analytics.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sujon.sarder\\source\\repos\\Test1\\Analytics.Repository\\Analytics.Repository.csproj",
+        "projectName": "Analytics.Repository",
+        "projectPath": "C:\\Users\\sujon.sarder\\source\\repos\\Test1\\Analytics.Repository\\Analytics.Repository.csproj",
+        "packagesPath": "C:\\Users\\sujon.sarder\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sujon.sarder\\source\\repos\\Test1\\Analytics.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sujon.sarder\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sujon.sarder\\source\\repos\\Test1\\Analytictics\\Analytictics.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sujon.sarder\\source\\repos\\Test1\\Analytictics\\Analytictics.csproj",
+        "projectName": "Analytictics",
+        "projectPath": "C:\\Users\\sujon.sarder\\source\\repos\\Test1\\Analytictics\\Analytictics.csproj",
+        "packagesPath": "C:\\Users\\sujon.sarder\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sujon.sarder\\source\\repos\\Test1\\Analytictics\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sujon.sarder\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\sujon.sarder\\source\\repos\\Test1\\Analytics.Aggregator\\Analytics.Aggregator.csproj": {
+                "projectPath": "C:\\Users\\sujon.sarder\\source\\repos\\Test1\\Analytics.Aggregator\\Analytics.Aggregator.csproj"
+              },
+              "C:\\Users\\sujon.sarder\\source\\repos\\Test1\\Analytics.DTO\\Analytics.DTO.csproj": {
+                "projectPath": "C:\\Users\\sujon.sarder\\source\\repos\\Test1\\Analytics.DTO\\Analytics.DTO.csproj"
+              },
+              "C:\\Users\\sujon.sarder\\source\\repos\\Test1\\Analytics.Handler\\Analytics.Handler.csproj": {
+                "projectPath": "C:\\Users\\sujon.sarder\\source\\repos\\Test1\\Analytics.Handler\\Analytics.Handler.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

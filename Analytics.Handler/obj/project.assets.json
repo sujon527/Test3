@@ -1,0 +1,180 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Dapper/2.1.35": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0/Dapper.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0/Dapper.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Analytics.Aggregator/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Analytics.DTO": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Analytics.Aggregator.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Analytics.Aggregator.dll": {}
+        }
+      },
+      "Analytics.DTO/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Analytics.DTO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Analytics.DTO.dll": {}
+        }
+      },
+      "Analytics.Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Dapper": "2.1.35"
+        },
+        "compile": {
+          "bin/placeholder/Analytics.Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Analytics.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dapper/2.1.35": {
+      "sha512": "YKRwjVfrG7GYOovlGyQoMvr1/IJdn+7QzNXJxyMh0YfFF5yvDmTYaJOVYWsckreNjGsGSEtrMTpnzxTUq/tZQw==",
+      "type": "package",
+      "path": "dapper/2.1.35",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Dapper.png",
+        "dapper.2.1.35.nupkg.sha512",
+        "dapper.nuspec",
+        "lib/net461/Dapper.dll",
+        "lib/net461/Dapper.xml",
+        "lib/net5.0/Dapper.dll",
+        "lib/net5.0/Dapper.xml",
+        "lib/net7.0/Dapper.dll",
+        "lib/net7.0/Dapper.xml",
+        "lib/netstandard2.0/Dapper.dll",
+        "lib/netstandard2.0/Dapper.xml",
+        "readme.md"
+      ]
+    },
+    "Analytics.Aggregator/1.0.0": {
+      "type": "project",
+      "path": "../Analytics.Aggregator/Analytics.Aggregator.csproj",
+      "msbuildProject": "../Analytics.Aggregator/Analytics.Aggregator.csproj"
+    },
+    "Analytics.DTO/1.0.0": {
+      "type": "project",
+      "path": "../Analytics.DTO/Analytics.DTO.csproj",
+      "msbuildProject": "../Analytics.DTO/Analytics.DTO.csproj"
+    },
+    "Analytics.Repository/1.0.0": {
+      "type": "project",
+      "path": "../Analytics.Repository/Analytics.Repository.csproj",
+      "msbuildProject": "../Analytics.Repository/Analytics.Repository.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Analytics.Aggregator >= 1.0.0",
+      "Analytics.DTO >= 1.0.0",
+      "Analytics.Repository >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\sujon.sarder\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\sujon.sarder\\source\\repos\\Test1\\Test3\\Analytics.Handler\\Analytics.Handler.csproj",
+      "projectName": "Analytics.Handler",
+      "projectPath": "C:\\Users\\sujon.sarder\\source\\repos\\Test1\\Test3\\Analytics.Handler\\Analytics.Handler.csproj",
+      "packagesPath": "C:\\Users\\sujon.sarder\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sujon.sarder\\source\\repos\\Test1\\Test3\\Analytics.Handler\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\sujon.sarder\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\sujon.sarder\\source\\repos\\Test1\\Test3\\Analytics.Aggregator\\Analytics.Aggregator.csproj": {
+              "projectPath": "C:\\Users\\sujon.sarder\\source\\repos\\Test1\\Test3\\Analytics.Aggregator\\Analytics.Aggregator.csproj"
+            },
+            "C:\\Users\\sujon.sarder\\source\\repos\\Test1\\Test3\\Analytics.DTO\\Analytics.DTO.csproj": {
+              "projectPath": "C:\\Users\\sujon.sarder\\source\\repos\\Test1\\Test3\\Analytics.DTO\\Analytics.DTO.csproj"
+            },
+            "C:\\Users\\sujon.sarder\\source\\repos\\Test1\\Test3\\Analytics.Repository\\Analytics.Repository.csproj": {
+              "projectPath": "C:\\Users\\sujon.sarder\\source\\repos\\Test1\\Test3\\Analytics.Repository\\Analytics.Repository.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

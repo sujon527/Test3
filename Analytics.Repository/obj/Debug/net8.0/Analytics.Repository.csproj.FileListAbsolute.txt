@@ -1,0 +1,12 @@
+C:\Users\sujon.sarder\source\repos\Test1\Analytics.Repository\bin\Debug\net8.0\Analytics.Repository.deps.json
+C:\Users\sujon.sarder\source\repos\Test1\Analytics.Repository\bin\Debug\net8.0\Analytics.Repository.dll
+C:\Users\sujon.sarder\source\repos\Test1\Analytics.Repository\bin\Debug\net8.0\Analytics.Repository.pdb
+C:\Users\sujon.sarder\source\repos\Test1\Analytics.Repository\obj\Debug\net8.0\Analytics.Repository.csproj.AssemblyReference.cache
+C:\Users\sujon.sarder\source\repos\Test1\Analytics.Repository\obj\Debug\net8.0\Analytics.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sujon.sarder\source\repos\Test1\Analytics.Repository\obj\Debug\net8.0\Analytics.Repository.AssemblyInfoInputs.cache
+C:\Users\sujon.sarder\source\repos\Test1\Analytics.Repository\obj\Debug\net8.0\Analytics.Repository.AssemblyInfo.cs
+C:\Users\sujon.sarder\source\repos\Test1\Analytics.Repository\obj\Debug\net8.0\Analytics.Repository.csproj.CoreCompileInputs.cache
+C:\Users\sujon.sarder\source\repos\Test1\Analytics.Repository\obj\Debug\net8.0\Analytics.Repository.dll
+C:\Users\sujon.sarder\source\repos\Test1\Analytics.Repository\obj\Debug\net8.0\refint\Analytics.Repository.dll
+C:\Users\sujon.sarder\source\repos\Test1\Analytics.Repository\obj\Debug\net8.0\Analytics.Repository.pdb
+C:\Users\sujon.sarder\source\repos\Test1\Analytics.Repository\obj\Debug\net8.0\ref\Analytics.Repository.dll

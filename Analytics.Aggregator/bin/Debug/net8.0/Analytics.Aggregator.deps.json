@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Analytics.Aggregator/1.0.0": {
+        "dependencies": {
+          "Analytics.DTO": "1.0.0"
+        },
+        "runtime": {
+          "Analytics.Aggregator.dll": {}
+        }
+      },
+      "Analytics.DTO/1.0.0": {
+        "runtime": {
+          "Analytics.DTO.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Analytics.Aggregator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Analytics.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

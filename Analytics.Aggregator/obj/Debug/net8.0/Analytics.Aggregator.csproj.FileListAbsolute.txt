@@ -1,0 +1,15 @@
+C:\Users\sujon.sarder\source\repos\Test1\Analytics.Aggregator\bin\Debug\net8.0\Analytics.Aggregator.deps.json
+C:\Users\sujon.sarder\source\repos\Test1\Analytics.Aggregator\bin\Debug\net8.0\Analytics.Aggregator.dll
+C:\Users\sujon.sarder\source\repos\Test1\Analytics.Aggregator\bin\Debug\net8.0\Analytics.Aggregator.pdb
+C:\Users\sujon.sarder\source\repos\Test1\Analytics.Aggregator\bin\Debug\net8.0\Analytics.DTO.dll
+C:\Users\sujon.sarder\source\repos\Test1\Analytics.Aggregator\bin\Debug\net8.0\Analytics.DTO.pdb
+C:\Users\sujon.sarder\source\repos\Test1\Analytics.Aggregator\obj\Debug\net8.0\Analytics.Aggregator.csproj.AssemblyReference.cache
+C:\Users\sujon.sarder\source\repos\Test1\Analytics.Aggregator\obj\Debug\net8.0\Analytics.Aggregator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sujon.sarder\source\repos\Test1\Analytics.Aggregator\obj\Debug\net8.0\Analytics.Aggregator.AssemblyInfoInputs.cache
+C:\Users\sujon.sarder\source\repos\Test1\Analytics.Aggregator\obj\Debug\net8.0\Analytics.Aggregator.AssemblyInfo.cs
+C:\Users\sujon.sarder\source\repos\Test1\Analytics.Aggregator\obj\Debug\net8.0\Analytics.Aggregator.csproj.CoreCompileInputs.cache
+C:\Users\sujon.sarder\source\repos\Test1\Analytics.Aggregator\obj\Debug\net8.0\Analytic.515C8CEA.Up2Date
+C:\Users\sujon.sarder\source\repos\Test1\Analytics.Aggregator\obj\Debug\net8.0\Analytics.Aggregator.dll
+C:\Users\sujon.sarder\source\repos\Test1\Analytics.Aggregator\obj\Debug\net8.0\refint\Analytics.Aggregator.dll
+C:\Users\sujon.sarder\source\repos\Test1\Analytics.Aggregator\obj\Debug\net8.0\Analytics.Aggregator.pdb
+C:\Users\sujon.sarder\source\repos\Test1\Analytics.Aggregator\obj\Debug\net8.0\ref\Analytics.Aggregator.dll

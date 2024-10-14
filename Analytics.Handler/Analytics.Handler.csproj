@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Analytics.Aggregator\Analytics.Aggregator.csproj" />
+    <ProjectReference Include="..\Analytics.DTO\Analytics.DTO.csproj" />
+    <ProjectReference Include="..\Analytics.Repository\Analytics.Repository.csproj" />
+  </ItemGroup>
+
+</Project>
