@@ -9,3 +9,15 @@ C:\Users\sujon.sarder\source\repos\Test1\Analytics.DTO\obj\Debug\net8.0\Analytic
 C:\Users\sujon.sarder\source\repos\Test1\Analytics.DTO\obj\Debug\net8.0\refint\Analytics.DTO.dll
 C:\Users\sujon.sarder\source\repos\Test1\Analytics.DTO\obj\Debug\net8.0\Analytics.DTO.pdb
 C:\Users\sujon.sarder\source\repos\Test1\Analytics.DTO\obj\Debug\net8.0\ref\Analytics.DTO.dll
+C:\Users\sujon.sarder\source\repos\Test1\Test3\Analytics.DTO\bin\Debug\net8.0\Analytics.DTO.deps.json
+C:\Users\sujon.sarder\source\repos\Test1\Test3\Analytics.DTO\bin\Debug\net8.0\Analytics.DTO.dll
+C:\Users\sujon.sarder\source\repos\Test1\Test3\Analytics.DTO\bin\Debug\net8.0\Analytics.DTO.pdb
+C:\Users\sujon.sarder\source\repos\Test1\Test3\Analytics.DTO\obj\Debug\net8.0\Analytics.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sujon.sarder\source\repos\Test1\Test3\Analytics.DTO\obj\Debug\net8.0\Analytics.DTO.AssemblyInfoInputs.cache
+C:\Users\sujon.sarder\source\repos\Test1\Test3\Analytics.DTO\obj\Debug\net8.0\Analytics.DTO.AssemblyInfo.cs
+C:\Users\sujon.sarder\source\repos\Test1\Test3\Analytics.DTO\obj\Debug\net8.0\Analytics.DTO.csproj.CoreCompileInputs.cache
+C:\Users\sujon.sarder\source\repos\Test1\Test3\Analytics.DTO\obj\Debug\net8.0\Analytics.DTO.sourcelink.json
+C:\Users\sujon.sarder\source\repos\Test1\Test3\Analytics.DTO\obj\Debug\net8.0\Analytics.DTO.dll
+C:\Users\sujon.sarder\source\repos\Test1\Test3\Analytics.DTO\obj\Debug\net8.0\refint\Analytics.DTO.dll
+C:\Users\sujon.sarder\source\repos\Test1\Test3\Analytics.DTO\obj\Debug\net8.0\Analytics.DTO.pdb
+C:\Users\sujon.sarder\source\repos\Test1\Test3\Analytics.DTO\obj\Debug\net8.0\ref\Analytics.DTO.dll
