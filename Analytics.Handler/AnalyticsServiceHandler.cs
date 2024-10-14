@@ -19,7 +19,7 @@ namespace Analytics.Handler
             _analyticsDataRepository = analyticsDataRepository;
         }
 
-        public async Task<AnalyticsDTO> GetAnalyticsDataAsync(string corporateId)
+        public async Task<AnalyticsDTO> GetAnalyticsDataAsync(int corporateId)
         {
 
              List<AnalyticsData>data = (await _analyticsDataRepository.GetYourDataAsync(corporateId)).ToList();

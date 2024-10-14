@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Analytics.Handler")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+388d5f1efc130c30db2e05b6efff79af075e9290")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2218a3290f3462cc8e8d88c1732f0b7ab85b687e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Analytics.Handler")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Analytics.Handler")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
