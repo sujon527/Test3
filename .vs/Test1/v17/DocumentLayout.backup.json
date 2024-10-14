@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\sujon.sarder\\source\\repos\\Test1\\Test3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8370A0A9-7057-41F0-B0A5-266ACF7A3EC4}|Analytics.DTO\\Analytics.DTO.csproj|c:\\users\\sujon.sarder\\source\\repos\\test1\\test3\\analytics.dto\\analyticsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8370A0A9-7057-41F0-B0A5-266ACF7A3EC4}|Analytics.DTO\\Analytics.DTO.csproj|solutionrelative:analytics.dto\\analyticsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2182A264-BABF-4522-88BA-0E2821F3D167}|Analytics.Aggregator\\Analytics.Aggregator.csproj|c:\\users\\sujon.sarder\\source\\repos\\test1\\test3\\analytics.aggregator\\models\\analyticsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2182A264-BABF-4522-88BA-0E2821F3D167}|Analytics.Aggregator\\Analytics.Aggregator.csproj|solutionrelative:analytics.aggregator\\models\\analyticsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24211952-8066-4FEE-BF05-621E6A61573F}|Analytics.Repository\\Analytics.Repository.csproj|c:\\users\\sujon.sarder\\source\\repos\\test1\\test3\\analytics.repository\\analyticsdatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24211952-8066-4FEE-BF05-621E6A61573F}|Analytics.Repository\\Analytics.Repository.csproj|solutionrelative:analytics.repository\\analyticsdatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A8BD9B5A-9393-474C-8B8F-07EAD53882E7}|AnalyticsReport\\AnalyticsReport.csproj|c:\\users\\sujon.sarder\\source\\repos\\test1\\test3\\analyticsreport\\controllers\\analyticsreportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,14 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{612CAEE8-C824-4D1A-AE25-F94DB29FE5D0}|Analytics.Handler\\Analytics.Handler.csproj|c:\\users\\sujon.sarder\\source\\repos\\test1\\test3\\analytics.handler\\analyticsservicehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{612CAEE8-C824-4D1A-AE25-F94DB29FE5D0}|Analytics.Handler\\Analytics.Handler.csproj|solutionrelative:analytics.handler\\analyticsservicehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8370A0A9-7057-41F0-B0A5-266ACF7A3EC4}|Analytics.DTO\\Analytics.DTO.csproj|c:\\users\\sujon.sarder\\source\\repos\\test1\\test3\\analytics.dto\\analyticsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8370A0A9-7057-41F0-B0A5-266ACF7A3EC4}|Analytics.DTO\\Analytics.DTO.csproj|solutionrelative:analytics.dto\\analyticsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24211952-8066-4FEE-BF05-621E6A61573F}|Analytics.Repository\\Analytics.Repository.csproj|c:\\users\\sujon.sarder\\source\\repos\\test1\\test3\\analytics.repository\\analyticsdatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24211952-8066-4FEE-BF05-621E6A61573F}|Analytics.Repository\\Analytics.Repository.csproj|solutionrelative:analytics.repository\\analyticsdatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{24211952-8066-4FEE-BF05-621E6A61573F}|Analytics.Repository\\Analytics.Repository.csproj|c:\\users\\sujon.sarder\\source\\repos\\test1\\test3\\analytics.repository\\ianalyticsdatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,58 +59,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AnalyticsDTO.cs",
-              "DocumentMoniker": "C:\\Users\\sujon.sarder\\source\\repos\\Test1\\Test3\\Analytics.DTO\\AnalyticsDTO.cs",
-              "RelativeDocumentMoniker": "Analytics.DTO\\AnalyticsDTO.cs",
-              "ToolTip": "C:\\Users\\sujon.sarder\\source\\repos\\Test1\\Test3\\Analytics.DTO\\AnalyticsDTO.cs",
-              "RelativeToolTip": "Analytics.DTO\\AnalyticsDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T11:28:28.085Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AnalyticsData.cs",
-              "DocumentMoniker": "C:\\Users\\sujon.sarder\\source\\repos\\Test1\\Test3\\Analytics.Aggregator\\Models\\AnalyticsData.cs",
-              "RelativeDocumentMoniker": "Analytics.Aggregator\\Models\\AnalyticsData.cs",
-              "ToolTip": "C:\\Users\\sujon.sarder\\source\\repos\\Test1\\Test3\\Analytics.Aggregator\\Models\\AnalyticsData.cs",
-              "RelativeToolTip": "Analytics.Aggregator\\Models\\AnalyticsData.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAgAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T11:00:47.889Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AnalyticsServiceHandler.cs",
-              "DocumentMoniker": "C:\\Users\\sujon.sarder\\source\\repos\\Test1\\Test3\\Analytics.Handler\\AnalyticsServiceHandler.cs",
-              "RelativeDocumentMoniker": "Analytics.Handler\\AnalyticsServiceHandler.cs",
-              "ToolTip": "C:\\Users\\sujon.sarder\\source\\repos\\Test1\\Test3\\Analytics.Handler\\AnalyticsServiceHandler.cs",
-              "RelativeToolTip": "Analytics.Handler\\AnalyticsServiceHandler.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwDIAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T11:08:44.235Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "AnalyticsReportController.cs",
               "DocumentMoniker": "C:\\Users\\sujon.sarder\\source\\repos\\Test1\\Test3\\AnalyticsReport\\Controllers\\AnalyticsReportController.cs",
               "RelativeDocumentMoniker": "AnalyticsReport\\Controllers\\AnalyticsReportController.cs",
               "ToolTip": "C:\\Users\\sujon.sarder\\source\\repos\\Test1\\Test3\\AnalyticsReport\\Controllers\\AnalyticsReportController.cs",
               "RelativeToolTip": "AnalyticsReport\\Controllers\\AnalyticsReportController.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAQwCIAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB8AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-14T11:21:40.101Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "AnalyticsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sujon.sarder\\source\\repos\\Test1\\Test3\\Analytics.DTO\\AnalyticsDTO.cs",
+              "RelativeDocumentMoniker": "Analytics.DTO\\AnalyticsDTO.cs",
+              "ToolTip": "C:\\Users\\sujon.sarder\\source\\repos\\Test1\\Test3\\Analytics.DTO\\AnalyticsDTO.cs*",
+              "RelativeToolTip": "Analytics.DTO\\AnalyticsDTO.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T11:28:28.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "AnalyticsDataRepository.cs",
               "DocumentMoniker": "C:\\Users\\sujon.sarder\\source\\repos\\Test1\\Test3\\Analytics.Repository\\AnalyticsDataRepository.cs",
               "RelativeDocumentMoniker": "Analytics.Repository\\AnalyticsDataRepository.cs",
@@ -119,6 +93,32 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-14T11:40:20.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnalyticsData.cs",
+              "DocumentMoniker": "C:\\Users\\sujon.sarder\\source\\repos\\Test1\\Test3\\Analytics.Aggregator\\Models\\AnalyticsData.cs",
+              "RelativeDocumentMoniker": "Analytics.Aggregator\\Models\\AnalyticsData.cs",
+              "ToolTip": "C:\\Users\\sujon.sarder\\source\\repos\\Test1\\Test3\\Analytics.Aggregator\\Models\\AnalyticsData.cs",
+              "RelativeToolTip": "Analytics.Aggregator\\Models\\AnalyticsData.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T11:00:47.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AnalyticsServiceHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sujon.sarder\\source\\repos\\Test1\\Test3\\Analytics.Handler\\AnalyticsServiceHandler.cs",
+              "RelativeDocumentMoniker": "Analytics.Handler\\AnalyticsServiceHandler.cs",
+              "ToolTip": "C:\\Users\\sujon.sarder\\source\\repos\\Test1\\Test3\\Analytics.Handler\\AnalyticsServiceHandler.cs",
+              "RelativeToolTip": "Analytics.Handler\\AnalyticsServiceHandler.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA2wBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T11:08:44.235Z",
               "EditorCaption": ""
             },
             {
