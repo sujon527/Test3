@@ -18,7 +18,7 @@ namespace Analytics.Repository
             _dbConnection = dbConnection;
         }
 
-        public async Task<IEnumerable<T>> GetYourDataAsync(string corporateId)
+        public async Task<IEnumerable<T>> GetYourDataAsync(int corporateId)
         {
 
             var query = "SELECT * FROM AnalyticsData WHERE CP_ID = @CorporateId"; // Adjust the query according to your schema

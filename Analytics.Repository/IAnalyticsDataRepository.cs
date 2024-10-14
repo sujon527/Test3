@@ -9,7 +9,7 @@ namespace Analytics.Repository
 {
     public interface IAnalyticsDataRepository<T> where T:class
     {
-       Task <IEnumerable<T>> GetYourDataAsync(string corporateId);
+       Task <IEnumerable<T>> GetYourDataAsync(int corporateId);
 
     }
 }
