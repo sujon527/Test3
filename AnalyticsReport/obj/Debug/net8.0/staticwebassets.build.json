@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TzkoJWNuRIKqW2uXNCQaKOFihkp55LA+JdJblGthkI4=",
+  "Source": "AnalyticsReport",
+  "BasePath": "_content/AnalyticsReport",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
