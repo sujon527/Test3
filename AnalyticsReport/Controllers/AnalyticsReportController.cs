@@ -29,7 +29,7 @@ namespace AnalyticsReport.Controllers
         //    return Ok(analyticsData); // Return the DTO data with 200 OK
         //}
         [HttpGet]
-        public async Task<IActionResult> GetAnalyticsData(int corporateId)
+        public async Task<ActionResult<AnalyticsDTO>> GetAnalyticsData(int corporateId)
         {
             var data = await _analyticsServiceHandler.GetAnalyticsDataAsync(corporateId);
             return Ok(data);  // This returns the properly serialized DTO
